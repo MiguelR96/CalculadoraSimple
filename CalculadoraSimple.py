@@ -37,6 +37,6 @@ while True:
     elif operacion == '4':
         print("Resultado:", division(valor1, valor2))
     else:
-        print("Operación no válida, selecione una válida")
+        print("Operación no válida, seleccione una válida")
             
 calculadora()
